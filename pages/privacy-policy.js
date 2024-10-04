@@ -27,6 +27,10 @@ export default function PoliticaDePrivacidade() {
           </li>
           <li>O tempo gasto no Aplicativo</li>
           <li>O sistema operacional que você usa em seu dispositivo móvel</li>
+          <li>E-mail</li>
+          <li>Login</li>
+          <li>Senha</li>
+          <li>Localização GPS</li>
         </ul>
         <p>O Aplicativo não coleta informações precisas sobre a localização do seu dispositivo móvel.</p>
         {/* O seguinte div está definido como display: none; */}
@@ -64,7 +68,7 @@ export default function PoliticaDePrivacidade() {
         <p>
           Para uma melhor experiência ao usar o Aplicativo, o Prestador de Serviço pode exigir que
           você forneça certas informações pessoalmente identificáveis, incluindo, mas não se
-          limitando a, E-mail. As informações que o Prestador de Serviço solicitar serão retidas por
+          limitando a, E-mail, Login, Senha, Localização GPS. As informações que o Prestador de Serviço solicitar serão retidas por
           eles e usadas conforme descrito nesta política de privacidade.
         </p>
         <br />
